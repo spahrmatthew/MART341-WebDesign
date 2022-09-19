@@ -1,0 +1,8 @@
+What is the relationship between an IP address and the DNS?
+An IP (Internet Protocol) address is a unique number for a device (similar to an address) where the DNS (Domain Name System) associates name with an IP address through a translative process.
+
+What is a cookie?
+A cookie is a file that is left on a device to collect browsing data, remember your device (on the server), and your preferences.
+
+What are the three essential parts of a URL?
+The three essential parts of a URL are (a)the protocol, (b) the domain, and (c)paths. These parts all help users navigate to the EXACT location of the site (similar to giving directions for your home).
